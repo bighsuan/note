@@ -41,4 +41,4 @@
 ## 聯絡資訊
 LisaChen  陳大宣
 
-aa86021g@gmail.com
+aa860221g@gmail.com
