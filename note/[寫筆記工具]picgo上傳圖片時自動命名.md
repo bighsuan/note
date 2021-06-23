@@ -1,4 +1,4 @@
-# picgo上傳圖片時自動命名
+# picgo上傳圖片時自動命名  11111
 
 這是typora上傳圖片的第二篇，[第一篇在這裡](https://blog.codefarm.com.tw/2021/04/19/typora-自動上傳圖片至github/)，還沒看過的要先去跟著第一篇設定picgo喔，這篇只會介紹如何自動命名上傳的圖片。
 
