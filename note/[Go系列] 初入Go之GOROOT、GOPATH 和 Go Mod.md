@@ -24,12 +24,22 @@ go env
 
 
 
-不過除了 GOROOT、GOPATH 外，還會把其他一大堆 Go 相關的變數都印出來
+會印出所有 Go 的環境變數：
 
 ```bash
 GOPATH="/Users/lisa/go"
 GOROOT="/usr/local/Cellar/go/1.16.4/libexec"
 ......(以下省略)
+```
+
+
+
+也可以直接指定要看的變數，這樣就不會有其他不相關的資訊了
+
+```
+go env GOPATH
+或
+go env GOROOT
 ```
 
 
