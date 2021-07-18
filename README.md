@@ -13,6 +13,10 @@
 ### Go
 * [[Go系列] 初入Go之GOROOT、GOPATH 和 Go Mod](https://github.com/bighsuan/note/blob/main/note/[Go%E7%B3%BB%E5%88%97]%20%E5%88%9D%E5%85%A5Go%E4%B9%8BGOROOT%E3%80%81GOPATH%20%E5%92%8C%20Go%20Mod.md?ref=main)
 
+### golang迷你讀書會
+* [[golang迷你讀書會] 第一週 - 安裝和基礎指令]()
+* [[golang迷你讀書會] 第二週 - go的語法]()
+
 ### PHP
 * [[PHP] Windows下安裝Phalcon及PhpStorm設定](https://github.com/bighsuan/note/blob/main/note/[PHP]%20Windows%E4%B8%8B%E5%AE%89%E8%A3%9DPhalcon%E5%8F%8APhpStorm%E8%A8%AD%E5%AE%9A.md?ref=main)
 
