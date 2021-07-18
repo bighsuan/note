@@ -40,7 +40,7 @@
 * [[寫筆記工具]picgo上傳圖片時自動命名](https://github.com/bighsuan/note/blob/main/note/[%E5%AF%AB%E7%AD%86%E8%A8%98%E5%B7%A5%E5%85%B7]picgo%E4%B8%8A%E5%82%B3%E5%9C%96%E7%89%87%E6%99%82%E8%87%AA%E5%8B%95%E5%91%BD%E5%90%8D.md?ref=main)
 
 ## 更新日期
-2021/06/22
+2021/07/18
 
 ## 聯絡資訊
 LisaChen  陳大宣
