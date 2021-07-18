@@ -6,9 +6,8 @@
 
 ## 目錄
 ### HTTP系列
-* [[HTTP系列] HTTP Cache 驗證方法](https://github.com/bighsuan/note/blob/main/note/[HTTP%E7%B3%BB%E5%88%97]%20HTTP%20Cache%20%E9%A9%97%E8%AD%89%E6%96%B9%E6%B3%95.md?ref=main)
-
 * [[HTTP系列] 網頁快取 CacheControl](https://github.com/bighsuan/note/blob/main/note/[HTTP%E7%B3%BB%E5%88%97]%20%E7%B6%B2%E9%A0%81%E5%BF%AB%E5%8F%96%20CacheControl.md?ref=main)
+* [[HTTP系列] HTTP Cache 驗證方法](https://github.com/bighsuan/note/blob/main/note/[HTTP%E7%B3%BB%E5%88%97]%20HTTP%20Cache%20%E9%A9%97%E8%AD%89%E6%96%B9%E6%B3%95.md?ref=main)
 
 ### Go
 * [[Go系列] 初入Go之GOROOT、GOPATH 和 Go Mod](https://github.com/bighsuan/note/blob/main/note/[Go%E7%B3%BB%E5%88%97]%20%E5%88%9D%E5%85%A5Go%E4%B9%8BGOROOT%E3%80%81GOPATH%20%E5%92%8C%20Go%20Mod.md?ref=main)
