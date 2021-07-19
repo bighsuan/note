@@ -25,6 +25,9 @@
 ### git
 * [[git系列] 忘記切分支就開始開發怎麼辦](https://github.com/bighsuan/note/blob/main/note/[git%E7%B3%BB%E5%88%97]%20%E5%BF%98%E8%A8%98%E5%88%87%E5%88%86%E6%94%AF%E5%B0%B1%E9%96%8B%E5%A7%8B%E9%96%8B%E7%99%BC%E6%80%8E%E9%BA%BC%E8%BE%A6.md?ref=main)
 
+### 未分類集中區
+* [HTML entity](https://github.com/bighsuan/note/blob/main/note/HTML%20entity.md)
+
 ### 其他工具
 * [[Solr] Solr查詢的q和fq](https://github.com/bighsuan/note/blob/main/note/[Solr]%20Solr%E6%9F%A5%E8%A9%A2%E7%9A%84q%E5%92%8Cfq.md?ref=main)
 
@@ -39,7 +42,7 @@
 * [[寫筆記工具]picgo上傳圖片時自動命名](https://github.com/bighsuan/note/blob/main/note/[%E5%AF%AB%E7%AD%86%E8%A8%98%E5%B7%A5%E5%85%B7]picgo%E4%B8%8A%E5%82%B3%E5%9C%96%E7%89%87%E6%99%82%E8%87%AA%E5%8B%95%E5%91%BD%E5%90%8D.md?ref=main)
 
 ## 更新日期
-2021/07/18
+2021/07/19
 
 ## 聯絡資訊
 LisaChen  陳大宣
