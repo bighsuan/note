@@ -10,8 +10,6 @@
 
 
 
-## String 和 HTML Entity 轉換
-
 ### string -> HTML entity
 
 `mb_convert_encoding`，簡單好用但好像某些環境下不能使用
